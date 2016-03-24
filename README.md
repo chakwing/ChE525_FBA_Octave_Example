@@ -23,11 +23,11 @@ Flux Balance Analysis (FBA) solution script
 > OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN
 > THE SOFTWARE. 
 
-[![alt text](./Complex-netwrok-example-crop.jpg "Title")](#features)
+Introduction
+------------
+In this repository you'll find [Octave](https://www.gnu.org/software/octave/) code for the flux balance analysis of the sample network: `Complex-network-example-crop.pdf`. This networks contains four extracellular species (`Ax,Bx,Cx and Dx`) and seven intracellular species (`A,B,C,ADP/ATP and NAD/NADH`) and mimics the tradeoff between oxidative versus substrate level phosphorylation. To solve this model, you'll need to have GNU Octave with the GLPK option installed on your computer. GNU Octave/GLPK is free and can be downloaded from [here](https://www.gnu.org/software/octave/download.html).
 
-
-Files:
-------
+###Files
 * DataFile.m		Parameter struct that holds problem specific information
 * Network.dat		Stoichiometric matrix file (text file)
 * FB.dat			List of flux bounds (text file)
