@@ -23,7 +23,7 @@ Flux Balance Analysis (FBA) solution script
 > OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN
 > THE SOFTWARE. 
 
-![alt text](./Complex-netwrok-example-crop.jpg "Title")
+[![alt text](./Complex-netwrok-example-crop.jpg "Title")](#features)
 
 
 Files:
